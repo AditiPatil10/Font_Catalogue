@@ -1,0 +1,94 @@
+dd{
+	height: 100px;
+}
+
+a{
+	color: white;
+	margin: 5px;
+}
+
+a:hover{
+	color: #AF7AC5 !important;
+	text-decoration: none !important;
+}
+
+.fa{
+	color: white;
+}
+
+.bg{
+	position: fixed;
+	z-index: -1000;
+}
+
+.heading{
+	color: white;
+	padding: 20px;
+	-webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #AF7AC5;
+    font-family: 'Share Tech Mono', monospace;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+
+.card{
+	background-color: black !important;
+	margin: 20px;
+	border-radius: 8px !important ;
+	color: white;
+	margin-top: 0px;
+}
+
+.card-header{
+	font-size: 25px;
+}
+
+.card-title{
+	font-size: 15px;
+	color: #AF7AC5;
+	margin-top: 0px;
+}
+
+.f1{
+	font-family: 'Patrick Hand SC', cursive !important;
+}
+
+.f2{
+	font-family: 'Shrikhand', cursive;
+}
+
+.f3{
+	font-family: 'Gochi Hand', cursive;
+}
+
+.f4{
+	font-family: 'Benne', serif;
+}
+
+.f5{
+	font-family: 'Share Tech Mono', monospace;
+}
+
+.f6{
+	font-family: 'Beth Ellen', cursive;
+}
+
+.btn{
+	background-color: #AF7AC5 !important;
+	border: none !important;
+}
+
+.footer{
+
+	padding: 50px;
+	color: white;
+	background-color: black;
+	border-radius: 10px;
+	margin: 50px;
+}
+
+iframe{
+	border-radius: 8px;
+	border:#AF7AC5 solid ;
+}
